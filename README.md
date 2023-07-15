@@ -19,9 +19,6 @@
 ### :trophy: My stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=George-c0de&hide=contribs&show_icons=true">
-  <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=George-c0de&show_icons=true"  alt="state"/>
-</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=George-c0de&layout=compact">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-c0de&layout=compact"  alt="state"/>
 </a>
